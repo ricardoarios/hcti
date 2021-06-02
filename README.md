@@ -13,7 +13,7 @@ COVID-19 has widely spread around the world, impacting the health systems of sev
 
 From the COVID-19 dataset by the Johns Hopkins University Center for Systems Science and Engineering, we present a temporal analysis on the number of new cases and deaths among countries using artificial intelligence. Our approach incrementally models the cases using a hierarchical clustering that emphasizes country transitions between infection groups over time.
 
-<img src="images/cov-clust.png">
+<img align="center" src="images/cov-clust.png">
 
 ### About the transition index
 
