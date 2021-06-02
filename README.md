@@ -13,13 +13,13 @@ COVID-19 has widely spread around the world, impacting the health systems of sev
 
 From the COVID-19 dataset by the Johns Hopkins University Center for Systems Science and Engineering, we present a temporal analysis on the number of new cases and deaths among countries using artificial intelligence. Our approach incrementally models the cases using a hierarchical clustering that emphasizes country transitions between infection groups over time.
 
-<img align="right" src="images/protein.png">
+<img align="right" src="images/cov-clust.png">
 
 ### About the transition index
 
 The transition index is suitable for any dataset and is applied on dendogram produced by hierachical clustering. In summary, it is used to extract information from dendrogram clades. When used along with multiple clustering execution (e.g. temporal data), it allows to track element movements among clusters.
 
-<img align="right" src="images/protein.png">
+<img align="right" src="images/hcti.png">
 
 The organization of the material is:
 
