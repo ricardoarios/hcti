@@ -4,7 +4,7 @@
 
 This software was initially presented in the manuscript "Country Transition Index Based on Hierarchical Clustering to Predict Next COVID-19 Waves" (submitted to Scientific Report -- under review)
 
-An online system with our analyses is available at \url{https://covid19-usp.neodados.com/}.
+An online system with our analyses is available at https://covid19-usp.neodados.com/.
 
 <img align="right" src="images/protein.png">
 
