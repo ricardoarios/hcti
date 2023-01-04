@@ -39,6 +39,7 @@ You can also open R and run:
 source("R/tree-clustering.R")
 ```
 
+Running the code "R/tree-clustering.R" you can see a complete example of our experiments.
 
 If you find any issues with the code, please contact me: ricardoar@ufba.br
 
